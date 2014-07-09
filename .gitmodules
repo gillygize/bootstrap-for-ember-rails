@@ -1,0 +1,3 @@
+[submodule "lib/bootstrap-for-ember-rails/bootstrap-for-ember"]
+	path = lib/bootstrap-for-ember-rails/bootstrap-for-ember
+	url = git://github.com/ember-addons/bootstrap-for-ember.git
